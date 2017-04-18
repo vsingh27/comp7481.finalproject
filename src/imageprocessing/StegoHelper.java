@@ -1,4 +1,4 @@
-/**
+package imageprocessing; /**
  * This is a Helper class for Image hiding methods
  * This helps to hide a message image in a carrier image
  *

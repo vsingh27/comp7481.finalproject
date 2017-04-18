@@ -14,6 +14,7 @@
  * PROGRAMMER:  Vishav Singh <vishav27@gmail.com>
  *
  */
+import imageprocessing.StegoHelper;
 import org.apache.commons.cli.*;
 
 public class ImageHiding

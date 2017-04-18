@@ -1,4 +1,4 @@
-/**
+package imageprocessing; /**
  * This is a Helper class for Image processing methods
  * This helps to get Rastere and copy image to memory
  * for processing purposes
